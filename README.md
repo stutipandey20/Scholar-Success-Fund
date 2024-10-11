@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Scholar_Success_Fund : Advanced Database System for Financial Aid
 Designed an SQL database system to analyze and distribute over 100 education loans and scholarships, featuring transactions, audit tables, cursors, views, and UDFs.
 
@@ -48,11 +48,11 @@ We welcome contributions to enhance the Scholar Success Fund project. If you hav
 3. Commit your changes with clear and concise messages.
 4. Submit a pull request for review.
 
-<<<<<<< HEAD
+
 ## Contact
 For more information or support, please contact - https://www.linkedin.com/in/stutipandey-us/
 
 
-=======
+
 ![image](https://github.com/user-attachments/assets/6166ad7e-de0b-41e4-8989-97199f447fa9)
->>>>>>> adc05ef6fc61e3099fa7f8cad10e1fd72119c0c8
+
